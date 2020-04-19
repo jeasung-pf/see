@@ -20,5 +20,5 @@ six==1.11.0
 tensorflow==1.4.1
 tensorflow-tensorboard==0.4.0rc3
 tqdm==4.19.5
-Werkzeug==0.13
+Werkzeug==0.15.3
 chainerui==0.3.0
