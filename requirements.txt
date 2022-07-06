@@ -6,7 +6,7 @@ enum34==1.1.6
 fastrlock==0.3
 filelock==2.0.13
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.999999999
 Markdown==2.6.10
 matplotlib==2.1.1
 numpy==1.13.3
